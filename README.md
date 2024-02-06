@@ -39,4 +39,4 @@ Feel free to use this website code as a template for your own personal website. 
 
 ## Special thanks for  [Mohamed Abusrea - محمد أبوسريع](https://www.youtube.com/@MohamedAbusrea/)
 
-## [Live Preview](salemgewiley.github.io)
+## [Live Preview](https://salemgewiley.github.io/personal-website/)
